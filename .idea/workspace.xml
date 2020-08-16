@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/A. Program Hello World/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A. Program Hello World/main.go" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/3. Constanta/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/3. Constanta/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/4. Operator/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/4. Operator/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,5 +56,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1597589872486">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597589872486" />
   </component>
 </project>
