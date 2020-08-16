@@ -9,7 +9,7 @@ func main() {
 		firstName adalah nama variabel
 		string adalah type data variabel
 		"Khaiz Badaru" adalah isi dari variabel
-	 */
+	*/
 
 	var lastName string
 	lastName = "Tammam"
@@ -25,9 +25,7 @@ func main() {
 		example :
 		var lastName string
 		var firstName string = "john"
-	 */
-
-
+	*/
 
 	fmt.Println("///////////////////////////// CARA 2 /////////////////////")
 	fmt.Println("////////////////// Deklarasi var tanpa type data /////////")
@@ -65,26 +63,25 @@ func main() {
 		cukup dengan = saja.
 
 		Variable underscore tidak bisa digunakan, hanya untuk menampung value aja
-	 */
+	*/
 	_ = "belajar Golang"
 	_ = "Golang itu mudah"
 	name, _ := "john", "wick"
 
-
 	fmt.Println("///////////////////////////// Variabel menggunakan keyword new /////////////////////")
-	 /*
-	 	Keyword new digunakan untuk membuat variabel pointer dengan tipe data tertentu.
-	 	Nilai data default-nya akan menyesuaikan tipe datanya.
-	  */
+	/*
+		Keyword new digunakan untuk membuat variabel pointer dengan tipe data tertentu.
+		Nilai data default-nya akan menyesuaikan tipe datanya.
+	*/
 
 	kelas := new(string)
 
-	fmt.Println(kelas)   // output 0x20818a220
-	fmt.Println(*kelas)  // output ""
+	fmt.Println(kelas)  // output 0x20818a220
+	fmt.Println(*kelas) // output ""
 
 	/*
-		Variabel name menampung data bertipe pointer string.
-	Jika ditampilkan yang muncul bukanlah nilainya melainkan alamat memori nilai tersebut (dalam bentuk notasi heksadesimal).
-	Untuk menampilkan nilai aslinya, variabel tersebut perlu di-dereference terlebih dahulu, menggunakan tanda asterisk (*)
-	 */
+			Variabel name menampung data bertipe pointer string.
+		Jika ditampilkan yang muncul bukanlah nilainya melainkan alamat memori nilai tersebut (dalam bentuk notasi heksadesimal).
+		Untuk menampilkan nilai aslinya, variabel tersebut perlu di-dereference terlebih dahulu, menggunakan tanda asterisk (*)
+	*/
 }
