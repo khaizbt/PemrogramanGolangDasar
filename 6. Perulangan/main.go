@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/*
+	Dalam Go, Perulangan hanya "for" saja, tidak ada "while" ataupun perulangan yang lain
+*/
+
 func main() {
 	for i := 0; i < 5; i++ {
 		fmt.Println("Nilainya adalah", i)
@@ -52,11 +56,12 @@ func main() {
 	}
 
 	fmt.Println("////////////////// Pemanfaatan label pada perulangan ////////////////////////")
-outerLoop:
+
+outerLoop: //Penamaan label
 	for i := 0; i < 5; i++ {
 		for j := 0; j < 5; j++ {
 			if i == 3 {
-				break outerLoop
+				break outerLoop //Label untuk for setelah penamaan Label(For Terluar) bertujuan untuk break/continue trsebut tertuju ke label mana
 			}
 			fmt.Print("matriks [", i, "][", j, "]", "\n")
 		}
