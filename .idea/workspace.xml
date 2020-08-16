@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/3. Constanta/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/3. Constanta/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/4. Operator/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/4. Operator/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/5. Percabangan/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A. Pemrograman Go Dasar/5. Percabangan/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -50,15 +52,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add Constanta and Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Constanta and Operator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1597589872486">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1597590906638">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597589872486" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1597590906638" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597590865254">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597590865254" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1597593697760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597593697760" />
   </component>
 </project>
