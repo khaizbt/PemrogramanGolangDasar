@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7. Array/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Array/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Slice/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Slice/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Perulangan/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/6. Perulangan/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. Array/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/7. Array/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +60,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add Constanta and Operator" />
     <MESSAGE value="Add Perulangan Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Perulangan Module" />
+    <MESSAGE value="Add Array Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1597599770227">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1597605760466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1597599770227" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1597605760466" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597590865254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597590865254" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1597598011692">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1597652258217">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597598011692" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597652258217" />
   </component>
 </project>

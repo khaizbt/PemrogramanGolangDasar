@@ -17,7 +17,7 @@ func main() {
 	}
 
 	/*
-		Variabel names dideklarasikan sebagai array string dengan alokasi elemen 4 slot.
+		Variabel names dideklarasikan sebagai array string dengan alokasi elemen 5 slot.
 		Cara mengisi slot elemen array bisa dilihat di kode di atas,
 		yaitu dengan langsung mengakses elemen menggunakan indeks, lalu mengisinya.
 
