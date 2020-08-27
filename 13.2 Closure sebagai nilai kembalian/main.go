@@ -10,7 +10,7 @@ func main() {
 	var theNumbers = getNumbers()
 
 	fmt.Println("Numbers \t", numbers)
-	fmt.Printf("find \t: %d \n\n", max)
+	fmt.Printf("find \t: %d \ng\n", max)
 
 	fmt.Println("found \t", howMany)
 	fmt.Println("value \t :", theNumbers)
