@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14. Fungsi sebagai param/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Pointer/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.1 Pinter sebagai Parameter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Struct/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Method/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.1 Method Parameter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18. Interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.1 Embedded Interface/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.2 Closure sebagai nilai kembalian/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/13.2 Closure sebagai nilai kembalian/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +48,11 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\GoLang\Leaarn Golang V2\18.1 Embedded Interface" />
       <recent name="E:\Project\GoLang\Leaarn Golang V2" />
     </key>
   </component>
@@ -66,17 +69,22 @@
     <MESSAGE value="Add Map Module" />
     <MESSAGE value="Add Function Module" />
     <MESSAGE value="Add Closure Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Closure Module" />
+    <MESSAGE value="Add Pointer Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Pointer Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1598506792980">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1598546740440">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598506792980" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598546740440" />
+    <state x="300" y="62" key="SettingsEditor" timestamp="1599635013778">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599635013778" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597590865254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -85,9 +93,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="914" y="271" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1536.834@0.0.1536.834" timestamp="1598451513956" />
-    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1598535039968">
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1599640050654">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598535039968" />
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1599640050654" />
   </component>
 </project>
