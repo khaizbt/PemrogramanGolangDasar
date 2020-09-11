@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16. Struct/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Method/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.1 Method Parameter/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18. Interface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.1 Embedded Interface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-1. Casting Variable Interface Kosong/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.Interface Kosong/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 refrect/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,17 +68,18 @@
     <MESSAGE value="Add Function Module" />
     <MESSAGE value="Add Closure Module" />
     <MESSAGE value="Add Pointer Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Pointer Module" />
+    <MESSAGE value="Add Interface Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Interface Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1598546740440">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1599640804075">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598546740440" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599640804075" />
     <state x="300" y="62" key="SettingsEditor" timestamp="1599635013778">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
