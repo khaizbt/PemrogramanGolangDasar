@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19-1. Casting Variable Interface Kosong/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.Interface Kosong/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 refrect/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21 Gouroutine/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 Channel/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.1 Channel Sebagai Type Data Parameter/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,21 @@
       <recent name="E:\Project\GoLang\Leaarn Golang V2" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Leaarn Golang V2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/21 Gouroutine/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -69,17 +84,34 @@
     <MESSAGE value="Add Closure Module" />
     <MESSAGE value="Add Pointer Module" />
     <MESSAGE value="Add Interface Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Interface Module" />
+    <MESSAGE value="Add Interface Kosong Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Interface Kosong Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1599640804075">
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1599825642388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599640804075" />
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599825642388" />
+    <state width="1495" height="214" key="GridCell.Tab.0.bottom" timestamp="1599923391679">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599923391679" />
+    <state width="1495" height="214" key="GridCell.Tab.0.center" timestamp="1599923391678">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599923391678" />
+    <state width="1495" height="214" key="GridCell.Tab.0.left" timestamp="1599923391678">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599923391678" />
+    <state width="1495" height="214" key="GridCell.Tab.0.right" timestamp="1599923391679">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1495" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599923391679" />
     <state x="300" y="62" key="SettingsEditor" timestamp="1599635013778">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
