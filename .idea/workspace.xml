@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/23 Buffered Channel/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24 Selected Channel/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Channel Range and CLose/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26. Channel Timeout/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27 Defer dan Exit/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.1 Kombinasi defer dan IIFE/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.2 Penerapan Fungsi Exit/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/1. Pemanfaatan Error/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/2. Membuat Custom Error/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/3. Penggunaan Panic/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/4. Penggunaan Recover/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +39,6 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
-    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -90,17 +86,18 @@
     <MESSAGE value="Add Interface Module" />
     <MESSAGE value="Add Interface Kosong Module" />
     <MESSAGE value="Add Goroutine and Channel Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Goroutine and Channel Module" />
+    <MESSAGE value="Add defer and exit Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add defer and exit Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1599927245087">
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1600535996423">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599927245087" />
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600535996423" />
     <state width="725" height="213" key="GridCell.Tab.0.bottom" timestamp="1600534894291">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
