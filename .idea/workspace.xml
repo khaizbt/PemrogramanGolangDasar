@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/1. Pemanfaatan Error/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/2. Membuat Custom Error/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/3. Penggunaan Panic/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/4. Penggunaan Recover/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Error, Panic dan Recover/5. Pemanfaatan recover pada IIFE/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Time, Parsing Time &amp; Format Time/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30 Regex/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31. Encode dan Decode/2. Penerapan Fungsi Encode dan Decode/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31. Encode dan Decode/3. URL Decoding/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31. Encode dan Decode/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32. Hash/2. Metode Salting/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32. Hash/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33. Web/2. Penggunaan Template Web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33. Web/2. Penggunaan Template Web/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33. Web/Web Dasar/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34. Parsing URL/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35. JSON/2. Encode dan Decode JSON/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35. JSON/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36. Web Service API/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\GoLang\Leaarn Golang V2\33. Web\Web Dasar" />
       <recent name="E:\Project\GoLang\Leaarn Golang V2" />
       <recent name="E:\Project\GoLang\Leaarn Golang V2\18.1 Embedded Interface" />
     </key>
@@ -87,17 +99,18 @@
     <MESSAGE value="Add Interface Kosong Module" />
     <MESSAGE value="Add Goroutine and Channel Module" />
     <MESSAGE value="Add defer and exit Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add defer and exit Module" />
+    <MESSAGE value="Add Error, Panic and Recover Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Error, Panic and Recover Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="251" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1597507373269" />
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1600535996423">
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1600538957088">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600535996423" />
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600538957088" />
     <state width="725" height="213" key="GridCell.Tab.0.bottom" timestamp="1600534894291">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -114,10 +127,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="725" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600534894291" />
-    <state x="300" y="62" key="SettingsEditor" timestamp="1599635013778">
+    <state x="300" y="62" key="SettingsEditor" timestamp="1601473721745">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599635013778" />
+    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601473721745" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597590865254">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -126,9 +139,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="914" y="271" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1536.834@0.0.1536.834" timestamp="1598451513956" />
-    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600531000447">
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1601477261026">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600531000447" />
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1601477261026" />
   </component>
 </project>
