@@ -4,7 +4,7 @@ import "fmt"
 
 /*
 	Defer digunakan untuk mengakhirkan eksekusi sebuah statement
-	dan digunakan agar sebuh eksekusi ditempatkan di paling akhir
+	dan digunakan agar sebauh eksekusi ditempatkan di paling akhir
 */
 func main() {
 	defer fmt.Println("Terima Kasih") //Walaupun ditulis dipaling atas maka nanti dieksekusi di paling akhir
