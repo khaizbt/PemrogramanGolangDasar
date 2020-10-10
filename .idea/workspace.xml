@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd0556-a904-4f93-99bd-4bf6df3dc22d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/37. Penggunaan HTTP Request/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38. SQL/2. Select 1 Record Data/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38. SQL/Postgre/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38. SQL/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39 NoSQL/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27 Defer dan Exit/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/27 Defer dan Exit/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pemrograman Web Go" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -90,7 +86,8 @@
     <MESSAGE value="Add defer and exit Module" />
     <MESSAGE value="Add Error, Panic and Recover Module" />
     <MESSAGE value="Add JSON Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add JSON Module" />
+    <MESSAGE value="Add SQL Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add SQL Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="251" key="#Go_Modules" timestamp="1597507373269">
@@ -101,14 +98,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="259" key="#SQL_Dialects/0.0.1536.834@0.0.1536.834" timestamp="1602171236969" />
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1601566051211">
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2" timestamp="1602171584258">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1601566051211" />
-    <state x="926" y="175" key="FileChooserDialogImpl" timestamp="1602080425525">
+    <state x="293" y="102" width="886" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602171584258" />
+    <state x="926" y="175" key="FileChooserDialogImpl" timestamp="1602301578763">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="926" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602080425525" />
+    <state x="926" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602301578763" />
     <state width="725" height="213" key="GridCell.Tab.0.bottom" timestamp="1600534894291">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
